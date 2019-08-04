@@ -2,6 +2,7 @@
 A text editor written in C, self containing without any extra dependency.
 Can be used both Windows, Linux and MacOS.
 ! Note in Windows you need a terminal application that supports bash.
+Project built on the following [guide](https://viewsourcecode.org/snaptoken/kilo/).
 
 ## How to build
 Make sure you have `cc` and `make` installed.
